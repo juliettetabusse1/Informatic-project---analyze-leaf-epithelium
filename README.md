@@ -72,15 +72,15 @@ You can install these libraries from your terminal as follow :
 
 According to the article Why plants make puzzle cells, and how their shape emerges, we find this type of cells in the leaves, because it reduces the stress in the epidermal cell walls.
 
-![group 3 cell type](/docs/example_groupe_3.png?raw=true "Group 3 cell type")
+![group 3 cell type](/docs/example_cellules_groupe_3.png?raw=true "Group 3 cell type")
 
 <span style="text-decoration:underline;">Group 4:</span> Cells which have a geometric form and a visible nucleus, and some stomates. These images of cells are dark or moderately dyeing. 
 
-![group 4 cell type](/docs/example_groupe_4.png?raw=true "Group 4 cell type")
+![group 4 cell type](/docs/example_cellules_groupe_4.png?raw=true "Group 4 cell type")
 
 <span style="text-decoration:underline;">Group 5</span>: Cells with a long form, moderately dyeing or a pale dyeing. These cells had an anisotropic growth, which is an advantageous strategy as it limits the stress magnitude. 
 
-![group 5 cell type](/docs/example_groupe_5.png?raw=true "Group 5 cell type")
+![group 5 cell type](/docs/example_cellules_groupe_5.png?raw=true "Group 5 cell type")
 
 **      <span style="text-decoration:underline;">Database structure</span> : **
 
