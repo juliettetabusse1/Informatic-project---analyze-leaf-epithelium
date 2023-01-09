@@ -80,7 +80,7 @@ According to the article Why plants make puzzle cells, and how their shape emerg
 
 <span style="text-decoration:underline;">Group 5</span>: Cells with a long form, moderately dyeing or a pale dyeing. These cells had an anisotropic growth, which is an advantageous strategy as it limits the stress magnitude. 
 
-![group 5 cell type](/docs/example_cellules_groupe_5.png?raw=true "Group 5 cell type")
+![group 5 cell type](/docs/example_cellules_groupe_2.png?raw=true "Group 5 cell type")
 
 **      <span style="text-decoration:underline;">Database structure</span> : **
 
